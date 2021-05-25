@@ -1,0 +1,29 @@
+#body{
+    background-color:#000000;
+    color: beige;
+    font-family:'Odibee Sans' ,sans-serif;
+}
+header{
+    margin-top: 3%;
+}
+h1{
+    text-align: center;
+}
+
+.row{
+    text-align: center;
+    padding: auto;
+}
+
+#main{
+    margin: 5% 0 5% 0; 
+}
+#footer{
+    margin-top: 8%;
+    text-align: center;
+}
+
+#refresh{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

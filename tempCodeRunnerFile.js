@@ -1,0 +1,1 @@
+document.getElementById("dice1").setAttribute("src",newDice)
