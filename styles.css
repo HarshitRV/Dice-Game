@@ -27,3 +27,13 @@ h1{
     margin-top: 5%;
     margin-bottom: 5%;
 }
+@media (max-width:600px){
+    #dice1{
+        width: 150px;
+    }
+}
+@media (max-width:600px){
+    #dice2{
+        width: 150px;
+    }
+}
